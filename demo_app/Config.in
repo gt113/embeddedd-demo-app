@@ -1,0 +1,4 @@
+config BR2_PACKAGE_DEMO_APP
+    bool "demo_app"
+    help
+      Very simple demo application for embedded Linux using Buildroot.
